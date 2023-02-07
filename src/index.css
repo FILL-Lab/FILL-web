@@ -1,6 +1,12 @@
+
+@font-face {
+  font-family: 'Barlow-Bold';
+  src: url('./assets/font/Barlow-Bold.ttf');
+  font-display: auto;
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, Barlow-Bold, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -10,4 +16,46 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.show-color{
+  color :#00E892
+}
+.ml-15{
+  margin-left: 15px;
+}
+.platform_svg{
+  width:20px;
+  height:17px;
+}
+.holders_svg{
+  width:18px;
+  height:20px;
+}
+.burden_svg{
+      width:23px;
+    height:18px;
+}
+.provide_svg{
+   width:18px;
+    height:21px
+}
+.widthdraw_svg{
+width: 228px;
+height: 183px;
+}
+.repay_svg{
+  width:222px ;
+  height: 172px;
+}
+.borrow_svg{
+  width:236px;
+   height:190px
+}
+.deposit_svg{
+  width:196px;
+   height:146px
+}
+svg{
+  width: inherit;
+  height: inherit;
 }

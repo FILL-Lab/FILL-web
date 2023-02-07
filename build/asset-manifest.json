@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ae0331a.css",
+    "main.js": "/static/js/main.b4d61301.js",
+    "static/js/787.dd7d9f54.chunk.js": "/static/js/787.dd7d9f54.chunk.js",
+    "static/media/fill.gif": "/static/media/fill.45d208dbd489e3513c08.gif",
+    "static/media/Deposit.svg": "/static/media/Deposit.60d3f5d9bdc676fd9a2fcf740ab08c06.svg",
+    "static/media/Barlow-Bold.ttf": "/static/media/Barlow-Bold.8247eaeb0799c0acafc6.ttf",
+    "static/media/repay.svg": "/static/media/repay.9cb80cbf73c47db24cfb400c1a9fcd68.svg",
+    "static/media/Withdraw.svg": "/static/media/Withdraw.999be9db1607c392433149b4b0b0b2d6.svg",
+    "static/media/Borrow.svg": "/static/media/Borrow.1841940a95883153081d8da5ac3e5449.svg",
+    "static/media/logo.svg": "/static/media/logo.5db729b0285b9b507ea7505652516675.svg",
+    "static/media/holders.webp": "/static/media/holders.063170c140a088d29ef1.webp",
+    "index.html": "/index.html",
+    "main.9ae0331a.css.map": "/static/css/main.9ae0331a.css.map",
+    "main.b4d61301.js.map": "/static/js/main.b4d61301.js.map",
+    "787.dd7d9f54.chunk.js.map": "/static/js/787.dd7d9f54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae0331a.css",
+    "static/js/main.b4d61301.js"
+  ]
+}
